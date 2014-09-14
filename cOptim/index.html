@@ -89,7 +89,7 @@ Introduction</h1>
 <p>If each DOF range needs to be specified individually: <a class="el" href="namespacecoptim.html#aa15f83eb7efe9e755cf95461a7d7a8f1" title="Finds the global minimum of a function using brute force. ">coptim::brute(obj_func func, vect_states &amp;input, bool disp)</a></p>
 <h2><a class="anchor" id="dependency_sec"></a>
 Dependencies</h2>
-<p>This library requires a C++11 compatible compiler. Due to dependency on dlib for local minimization algorithms, objective functions should be written to take a dlib::matrix&lt;double, 0, 1&gt; as input and output a double. This dependency might be lifted in future versions.</p>
+<p>This library requires a C++11 compatible compiler. Due the dependency on dlib for local minimization algorithms, objective functions should be written to take a dlib::matrix&lt;double, 0, 1&gt; as input and output a double. This dependency might be lifted in future versions. In order to locate the dlib source files, the environment variable DLIB_HOME must be set to the dlib source directory.</p>
 <h2><a class="anchor" id="Usage"></a>
 Usage</h2>
 <p>To use this library clone the repository and download dlib. In your project link to the cOptim subfolder and the dlib library. Then write your objective function to accept a dlib::matrix&lt;double, 0, 1&gt; and return a double and optimize using the appropriate global optimization technique.</p>
@@ -136,7 +136,7 @@ Usage</h2>
 </div><!-- fragment --> </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Sep 13 2014 15:30:59 for cOptim by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sun Sep 14 2014 16:11:14 for cOptim by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.8
 </small></address>
