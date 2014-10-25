@@ -7,7 +7,7 @@ var searchData=
   ['maxiter',['maxiter',['../structcoptim_1_1anneal__params.html#a68820ba9081055f40cae7bc19e8e245d',1,'coptim::anneal_params']]],
   ['message',['message',['../structcoptim_1_1_optim_result.html#a1c1477c9b5684e070d21e95528d13d31',1,'coptim::OptimResult']]],
   ['message_5fmap_5ftype',['message_map_type',['../namespacecoptim.html#a9911e0ae8e09a06b6b2c7a02ac6080e0',1,'coptim']]],
-  ['method',['method',['../structcoptim_1_1basin__params.html#a70c87c32a5362f05225707c8e724fca9',1,'coptim::basin_params']]],
+  ['method',['method',['../struct_bench_result.html#a34107cc597f3427d04e32a70785f8b4d',1,'BenchResult::method()'],['../structcoptim_1_1basin__params.html#a70c87c32a5362f05225707c8e724fca9',1,'coptim::basin_params::method()']]],
   ['metropolis',['Metropolis',['../classcoptim_1_1_metropolis.html#a9bebcf194774dbeed5935d2fbc333b58',1,'coptim::Metropolis']]],
   ['metropolis',['Metropolis',['../classcoptim_1_1_metropolis.html',1,'coptim']]],
   ['metropolis_2eh',['Metropolis.h',['../_metropolis_8h.html',1,'']]],

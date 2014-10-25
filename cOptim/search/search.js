@@ -11,10 +11,11 @@ var indexSectionsWithContent =
   1: "abcfmors",
   2: "c",
   3: "abcmorstu",
-  4: "_abcdfgijklmnopqrstuw~",
-  5: "_abcdefklmnoqrstux",
+  4: "_abcdefgijklmnopqrstuwx~",
+  5: "_abcdefklmnopqrstuvx",
   6: "acjmostv",
-  7: "c"
+  7: "p",
+  8: "c"
 };
 
 var indexSectionNames =
@@ -26,7 +27,8 @@ var indexSectionNames =
   4: "functions",
   5: "variables",
   6: "typedefs",
-  7: "pages"
+  7: "defines",
+  8: "pages"
 };
 
 function convertToId(search)

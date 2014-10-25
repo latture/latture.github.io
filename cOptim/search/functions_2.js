@@ -4,6 +4,7 @@ var searchData=
   ['basin_5fparams',['basin_params',['../structcoptim_1_1basin__params.html#a71773232653db4ec4bcbf5cacd149cd1',1,'coptim::basin_params']]],
   ['basinhopping',['basinhopping',['../namespacecoptim.html#a907d31d38119e1bd7f8978b6f54596ee',1,'coptim']]],
   ['basinhoppingrunner',['BasinHoppingRunner',['../classcoptim_1_1_basin_hopping_runner.html#af50a6b2b98216303c71bb863b087b243',1,'coptim::BasinHoppingRunner']]],
+  ['benchresult',['BenchResult',['../struct_bench_result.html#a77213fb6591987260e0bdec75ef336ce',1,'BenchResult::BenchResult(std::string _method, std::string _func, int _dofs, std::string _path_to_file)'],['../struct_bench_result.html#a2aa9f792f8674bb9c0b51344b3b335b7',1,'BenchResult::BenchResult()']]],
   ['boltzmann',['boltzmann',['../structcoptim_1_1anneal__params.html#a525ed26bbeb66278c2ed42284478be5a',1,'coptim::anneal_params']]],
   ['boltzmann_5fsa',['boltzmann_sa',['../classcoptim_1_1boltzmann__sa.html#a2ee86f42c5143babe541d7f4de7b47fb',1,'coptim::boltzmann_sa::boltzmann_sa()'],['../classcoptim_1_1boltzmann__sa.html#a3c08680c49c47d274e06b82ca9de18c7',1,'coptim::boltzmann_sa::boltzmann_sa(const base_schedule_params &amp;bsp)']]],
   ['brute',['brute',['../namespacecoptim.html#a8ef8f46ab7f5fb4737ed02b1b2cf590b',1,'coptim::brute(obj_func func, int num_dofs, const range &amp;rng, bool disp)'],['../namespacecoptim.html#aa15f83eb7efe9e755cf95461a7d7a8f1',1,'coptim::brute(obj_func func, vect_states &amp;input, bool disp)']]],

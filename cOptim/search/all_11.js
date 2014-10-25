@@ -9,5 +9,7 @@ var searchData=
   ['range_2eh',['range.h',['../range_8h.html',1,'']]],
   ['report',['report',['../classcoptim_1_1_adaptive_stepsize.html#a059673bf786749e7ea7c915beabb84ff',1,'coptim::AdaptiveStepsize']]],
   ['rosen',['rosen',['../namespacecoptim.html#a28c21c597dfe3b09c6783438a0b3b55d',1,'coptim']]],
-  ['rosen_5fderivative',['rosen_derivative',['../namespacecoptim.html#a1b4a244a117dff118f92106ad5838cc1',1,'coptim']]]
+  ['rosen_5fderivative',['rosen_derivative',['../namespacecoptim.html#a1b4a244a117dff118f92106ad5838cc1',1,'coptim']]],
+  ['rosenbrock',['rosenbrock',['../testfunctions_8h.html#a4698c9b949637ccbf62b967cd0648a8f',1,'testfunctions.h']]],
+  ['run_5ftest',['run_test',['../testfunctions_8h.html#af37d1a9128873f17c27103a4100eb380',1,'testfunctions.h']]]
 ];

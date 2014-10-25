@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['random_5fnum_5fptr',['random_num_ptr',['../classcoptim_1_1base__schedule.html#a9db80e83eef2774235f4957e42cc407c',1,'coptim::base_schedule']]]
+  ['quench',['quench',['../structcoptim_1_1base__schedule__params.html#a639b73cf763880947908859f54c52a69',1,'coptim::base_schedule_params::quench()'],['../classcoptim_1_1base__schedule.html#a268c9f1825aaf0d78763e16a250b538a',1,'coptim::base_schedule::quench()']]]
 ];

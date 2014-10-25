@@ -6,6 +6,7 @@ var searchData=
   ['adjust_5fstep_5finterval',['adjust_step_interval',['../structcoptim_1_1basin__params.html#ae96d0dddaf909538aefcd2d8be42f0ac',1,'coptim::basin_params::adjust_step_interval()'],['../structcoptim_1_1anneal__params.html#a684bf28c515f9e66275b942ffa0e9cc2',1,'coptim::anneal_params::adjust_step_interval()']]],
   ['anneal',['anneal',['../namespacecoptim.html#ac7ccbb0a1ff0a17a3b231330b3bdb596',1,'coptim']]],
   ['anneal_5fparams',['anneal_params',['../structcoptim_1_1anneal__params.html#aee30ced2c97f09b7e4403a3ac7424655',1,'coptim::anneal_params']]],
+  ['associate_5ffunctions',['associate_functions',['../testfunctions_8h.html#a461f8d5f68ff1706cfeab3f1eb2948b8',1,'testfunctions.h']]],
   ['associate_5fmessages',['associate_messages',['../namespacecoptim.html#a5c6e26ec573b135296fe11df26bd55c4',1,'coptim']]],
   ['associate_5fschedules',['associate_schedules',['../namespacecoptim.html#a1fe3a550bd9ff44dd0106709408fd104',1,'coptim']]]
 ];

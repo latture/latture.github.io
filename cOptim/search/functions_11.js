@@ -1,9 +1,10 @@
 var searchData=
 [
-  ['schedule',['schedule',['../structcoptim_1_1anneal__params.html#aa41781384c09e285fb95ccf5d68dfcbf',1,'coptim::anneal_params']]],
-  ['set_5ft',['set_T',['../classcoptim_1_1base__schedule.html#a75c012f4bfd7003084f9ee6dc9506ca1',1,'coptim::base_schedule']]],
-  ['setup',['setup',['../classcoptim_1_1base__schedule.html#afa366562b30c553fd6d54e5ab8131b97',1,'coptim::base_schedule::setup()'],['../classcoptim_1_1fast__sa.html#acea9d62ebffab7301f33bfa5512fa440',1,'coptim::fast_sa::setup()'],['../classcoptim_1_1cauchy__sa.html#ac9a6f44dce02f72ddf427367069ca08d',1,'coptim::cauchy_sa::setup()'],['../classcoptim_1_1boltzmann__sa.html#a92e6f416da82be36a963501a6372d602',1,'coptim::boltzmann_sa::setup()']]],
-  ['step_5ffunc',['step_func',['../structcoptim_1_1basin__params.html#a6b840bc864d2c96f8aec0332ee80fc28',1,'coptim::basin_params::step_func()'],['../structcoptim_1_1anneal__params.html#a20d529285262c0b7d98a773403d03db2',1,'coptim::anneal_params::step_func()']]],
-  ['step_5fsize',['step_size',['../structcoptim_1_1basin__params.html#a39a3bef742858a4e01f61566d1279462',1,'coptim::basin_params::step_size()'],['../structcoptim_1_1anneal__params.html#a6bcba8f417ea2837c367beea439e0926',1,'coptim::anneal_params::step_size()']]],
-  ['storage',['Storage',['../structcoptim_1_1_storage.html#a440b4e5ee01ce8ecc662a29a369dc38b',1,'coptim::Storage::Storage(column_vector _x, double _cost)'],['../structcoptim_1_1_storage.html#afd54feb4539116ee4c6ae2e0c76d7d8d',1,'coptim::Storage::Storage()'],['../structcoptim_1_1_storage.html#ab178e6bcf2c8b6c539c88417215abb8e',1,'coptim::Storage::Storage(const Storage &amp;s)']]]
+  ['randomnumbergenerator',['RandomNumberGenerator',['../classcoptim_1_1_random_number_generator.html#a4203b3e85fafacde54efdd95a5378dc8',1,'coptim::RandomNumberGenerator::RandomNumberGenerator(double minVal, double maxVal)'],['../classcoptim_1_1_random_number_generator.html#a6445dee1ac4ebc184794002f3bbd5279',1,'coptim::RandomNumberGenerator::RandomNumberGenerator()']]],
+  ['range',['range',['../structcoptim_1_1range.html#a221d2f8d7f461afcbc4c4124c5715b5f',1,'coptim::range']]],
+  ['report',['report',['../classcoptim_1_1_adaptive_stepsize.html#a059673bf786749e7ea7c915beabb84ff',1,'coptim::AdaptiveStepsize']]],
+  ['rosen',['rosen',['../namespacecoptim.html#a28c21c597dfe3b09c6783438a0b3b55d',1,'coptim']]],
+  ['rosen_5fderivative',['rosen_derivative',['../namespacecoptim.html#a1b4a244a117dff118f92106ad5838cc1',1,'coptim']]],
+  ['rosenbrock',['rosenbrock',['../testfunctions_8h.html#a4698c9b949637ccbf62b967cd0648a8f',1,'testfunctions.h']]],
+  ['run_5ftest',['run_test',['../testfunctions_8h.html#af37d1a9128873f17c27103a4100eb380',1,'testfunctions.h']]]
 ];

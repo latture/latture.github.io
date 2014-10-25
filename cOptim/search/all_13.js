@@ -5,6 +5,7 @@ var searchData=
   ['take_5fadaptive_5fstep',['take_adaptive_step',['../classcoptim_1_1_adaptive_stepsize.html#a820bb7b6e8f407d8b98b52dcb79e0bca',1,'coptim::AdaptiveStepsize']]],
   ['take_5fstep_5ffunc',['take_step_func',['../namespacecoptim.html#aa73a34dfdf194ef0b766f884667911ef',1,'coptim']]],
   ['take_5fstep_5fptr',['take_step_ptr',['../classcoptim_1_1base__schedule.html#afd52a0bec5f18dba30842f2ec41af93a',1,'coptim::base_schedule']]],
+  ['testfunctions_2eh',['testfunctions.h',['../testfunctions_8h.html',1,'']]],
   ['tests',['tests',['../structcoptim_1_1base__schedule__params.html#a2469c0aeae0d546d0a8bf48d19125607',1,'coptim::base_schedule_params::tests()'],['../classcoptim_1_1base__schedule.html#a753cf2f9a5af73e25b1045eb39dda607',1,'coptim::base_schedule::tests()']]],
   ['tf',['Tf',['../structcoptim_1_1anneal__params.html#a599a011d47713777b372831341eb1216',1,'coptim::anneal_params']]],
   ['typedefs_2eh',['typedefs.h',['../typedefs_8h.html',1,'']]]

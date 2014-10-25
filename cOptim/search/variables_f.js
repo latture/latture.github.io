@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['t',['T',['../classcoptim_1_1base__schedule.html#ac99d6263230f4398f428e859940a8d3c',1,'coptim::base_schedule']]],
-  ['t0',['T0',['../structcoptim_1_1base__schedule__params.html#a53572e10cd2ca05da447fd1662f31279',1,'coptim::base_schedule_params::T0()'],['../classcoptim_1_1base__schedule.html#a6abdb1fc011f325e238224a03df1eac7',1,'coptim::base_schedule::T0()']]],
-  ['take_5fstep_5fptr',['take_step_ptr',['../classcoptim_1_1base__schedule.html#afd52a0bec5f18dba30842f2ec41af93a',1,'coptim::base_schedule']]],
-  ['tests',['tests',['../structcoptim_1_1base__schedule__params.html#a2469c0aeae0d546d0a8bf48d19125607',1,'coptim::base_schedule_params::tests()'],['../classcoptim_1_1base__schedule.html#a753cf2f9a5af73e25b1045eb39dda607',1,'coptim::base_schedule::tests()']]]
+  ['start',['start',['../structcoptim_1_1range.html#a1947a93fc1322062cc87033078dc02f5',1,'coptim::range']]],
+  ['step',['step',['../structcoptim_1_1range.html#ade671e61660ee6faa974d3800eeb28e3',1,'coptim::range']]],
+  ['step_5ffunc',['step_func',['../structcoptim_1_1base__schedule__params.html#ae99595c1176a479995053ec37ccebf6e',1,'coptim::base_schedule_params::step_func()'],['../classcoptim_1_1base__schedule.html#ad016c9cd93b113609917257544143374',1,'coptim::base_schedule::step_func()']]],
+  ['step_5fsize',['step_size',['../structcoptim_1_1base__schedule__params.html#a9e8a2e613540ae82ba2496c15d7c0c58',1,'coptim::base_schedule_params']]],
+  ['storage',['storage',['../classcoptim_1_1_basin_hopping_runner.html#aab91ce5971101325a78e647c3822dfd5',1,'coptim::BasinHoppingRunner']]],
+  ['success',['success',['../structcoptim_1_1_optim_result.html#ac1f6ef2c4670b03b69cbf7eb8562bd2a',1,'coptim::OptimResult']]]
 ];

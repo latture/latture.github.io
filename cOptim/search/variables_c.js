@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['quench',['quench',['../structcoptim_1_1base__schedule__params.html#a639b73cf763880947908859f54c52a69',1,'coptim::base_schedule_params::quench()'],['../classcoptim_1_1base__schedule.html#a268c9f1825aaf0d78763e16a250b538a',1,'coptim::base_schedule::quench()']]]
+  ['path_5fto_5ffile',['path_to_file',['../struct_bench_result.html#a1b326e36e25c5f5c3ba0f25f0c4baa05',1,'BenchResult']]]
 ];
