@@ -1,0 +1,30 @@
+/**
+ * Custom theme for reveal.js presentations
+ * 
+ * Ryan Latture. 11-3-2014.
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: 'Helvetica', sans-serif;
+$mainColor: #000;
+$headingFont: 'Helvetica', sans-serif;
+$headingColor: #000;
+$headingTextShadow: none;
+$headingTextTransform: none;
+$backgroundColor: #fff;
+$linkColor: #00008B;
+$linkColorHover: lighten( $linkColor, 20% );
+$selectionBackgroundColor: rgba(0, 0, 0, 0.99);
+
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
