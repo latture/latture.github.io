@@ -1,20 +1,26 @@
 (function($){
 
 	/* ---------------------------------------------- /*
-	 * Preloader  
-	/* ---------------------------------------------- */ 
+	 * Preloader
+	/* ---------------------------------------------- */
 
-	$(window).load(function() { 
+	$(window).load(function() {
 		$('#status').fadeOut();
-		$('#preloader').delay(350).fadeOut('slow'); 
-	}); 
+		$('#preloader').delay(350).fadeOut('slow');
+	});
 
 	$(document).ready(function() {
 
-		$('body').scrollspy({ 
+		$('body').scrollspy({
 			target: '.navbar-custom',
 			offset: 50
 		})
+
+		$(document).on('click','.navbar-collapse.in',function(e) {
+			if( $(e.target).is('a') && $(e.target).attr('class') != 'dropdown-toggle' ) {
+				$(this).collapse('hide');
+			}
+		});
 
 		$('a[href*=#]').bind("click", function(e){
 			var anchor = $(this);
@@ -31,7 +37,7 @@
 		$('#intro').backstretch(['assets/images/bg4.jpg']);
 
 		/* ---------------------------------------------- /*
- 		 * Navbar 
+		 * Navbar
 		/* ---------------------------------------------- */
 
 		var navbar = $('.navbar');
@@ -85,7 +91,7 @@
 		wow.init();
 
 		/* ---------------------------------------------- /*
-		 * Owl slider 
+		 * Owl slider
 		/* ---------------------------------------------- */
 
 		$("#owl-clients").owlCarousel({
@@ -118,15 +124,23 @@
 				preload: [0,1]
 			},
 			image: {
+				titleSrc: 'title',
 				tError: 'The image could not be loaded.',
-				titleSrc: function(item) {
-					return item.el.find('.ptitle').text();
-				}
 			}
 		});
 
+		$('.video-pop-up').magnificPopup({
+			type: 'iframe'
+		});
+
 		/* ---------------------------------------------- /*
-		 * E-mail validation 
+		 * A jQuery plugin for fluid width video embeds
+		/* ---------------------------------------------- */
+
+		$(".video").fitVids();
+
+		/* ---------------------------------------------- /*
+		 * E-mail validation
 		/* ---------------------------------------------- */
 
 		function isValidEmailAddress(emailAddress) {
@@ -177,7 +191,6 @@
 							responseMessage.html(result.message);
 							responseMessage.fadeIn(1000);
 						}
-						$('#ajax-status').removeClass('as-active');
 					}
 				});
 			}

@@ -112,6 +112,7 @@ a,
 /* ---------------------------------------------- */
 
 .btn,
+.label,
 .alert,
 .avatar,
 .progress,
@@ -132,7 +133,7 @@ a,
 .form-control {
 	background: #FFF;
 	border: 2px solid #C4C4C4;
-	height: 58px;
+	height: 54px;
 	font-size: 14px;
 	padding: 15px;
 	color: #777;
@@ -308,6 +309,23 @@ a,
 }
 
 /* ---------------------------------------------- /*
+ * Labels
+/* ---------------------------------------------- */
+
+.label {
+	padding: .2em .6em .2em;
+	font-size: 70%;
+}
+
+.label-custom-1 {
+	background: #EF4836;
+}
+
+.label-custom-2 {
+	background: #222;
+}
+
+/* ---------------------------------------------- /*
  * General
 /* ---------------------------------------------- */
 
@@ -417,10 +435,10 @@ h3 > .fa {
 /* ---------------------------------------------- */
 
 .navbar {
-	background: rgba(0, 0, 0, 0.25);
+	background: none;
 	border-radius: 0;
 	border: 0;
-	padding: 0px 0;
+	padding: 20px 0;
 	text-transform: uppercase;
 	color: #FFF !important;
 }
