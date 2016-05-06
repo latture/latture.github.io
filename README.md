@@ -1,7 +1,7 @@
 README
 ======
 
-This repository is used for host documentation for repositories.
+This repository is used for host my personal website as well as documentation for some of my open source repositories.
 
 Currently hosted repositories
 -----------------------------
